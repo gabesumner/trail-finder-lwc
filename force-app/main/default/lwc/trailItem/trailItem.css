@@ -1,0 +1,22 @@
+.description {
+    font-size: .75rem;
+    margin-bottom: 0.5rem;
+    min-height: 60px;
+}
+.badge {
+    border-radius: 0.5rem; 
+    overflow: hidden; 
+    width: 70px;
+    height: 70px;
+    margin-bottom: 5px;
+}
+.badge img {
+    width: 70px;
+    padding: 0.5rem;    
+}
+.slds-button {
+    width: 100%;
+}
+.hide {
+    display:none;
+}
